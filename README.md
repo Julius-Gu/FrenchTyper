@@ -1,5 +1,7 @@
 # FrenchTyper by Julius Guthunz
 
+# THIS PROJECT IS DEPRECATED, FOR THE NEWER VERSION PLEASE VISIT https://github.com/Julius-Gu/FrenchTyperJS
+
 __This is a small and lightweight programm allowing users to copy all of the special french symbols to
 the clipboard. Then you can paste it into any word processor / text editor that supports unicode 
 (that is pretty much anyone out there) with Ctrl+C.__
